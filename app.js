@@ -1,6 +1,6 @@
 const express = require("express")
 const app = express();
-const port = 3000
+const port = 3000;
 
 // twitterの設定
 const Twitter = require('twitter');

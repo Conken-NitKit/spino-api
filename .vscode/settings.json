@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8fcc68c5-8e14-4932-bbca-37dc8d436533/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/twippy-api",
+    "appService.deploySubpath": "."
+}
